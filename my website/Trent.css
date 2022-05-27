@@ -1,0 +1,32 @@
+body, html{
+    background-color: blue;
+}
+    
+img Me.jpg{
+    width: 50;
+
+}
+
+h1{
+    text-align: center;
+    color: white
+    ;
+}
+
+p{
+    background-color: grey;
+}
+
+ul{
+    background-color: red;
+    text-align: center;
+}
+
+ol{
+    background-color:beige;
+    text-align: center;
+}
+
+article, a{
+    background-color: white;
+}
